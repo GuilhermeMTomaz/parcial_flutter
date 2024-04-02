@@ -26,11 +26,11 @@ class _SobreViewState extends State<SobreView> {
               children: [
                 Column(
                   children: [
-                    Container(
+                    SizedBox(
                       height: 200,
-                      width: 200,
+                      width: 280,
                       child: Image.asset(
-                        'lib/images/img1.png',
+                        'lib/images/img2.jpeg',
                         fit: BoxFit.fill,
                         ),
                     ),

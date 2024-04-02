@@ -68,10 +68,22 @@ class _LoginViewState extends State<LoginView> {
                 //
                 //imagem
                 //
-                Icon(Icons.login,
-                  size: 100,
-                  color: Colors.black,
-                  ),
+                Row(
+                  children: [
+                    SizedBox(
+                      height: 150,
+                      width: 150,
+                      child: Image.asset(
+                        'lib/images/img1.png',
+                        fit: BoxFit.fill,
+                        ),
+                    ),
+                    Icon(Icons.login,
+                      size: 100,
+                      color: Colors.black,
+                      ),
+                  ],
+                ),
 
                 SizedBox(height: 10),
 
