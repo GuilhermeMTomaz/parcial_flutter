@@ -228,5 +228,3 @@ class _PrincipalViewState extends State<PrincipalView> {
     );
   }
 }
-
-

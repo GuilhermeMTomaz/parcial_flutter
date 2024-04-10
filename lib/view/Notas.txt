@@ -1,9 +1,0 @@
-A fazer
-[ ]-colocar no git
-
-Feitos
-[x]-Criar telas para adicionar lista e itens pq o popup n ta funcionando
-[x]-sobre na tela de login
-[x]-Cadastro nao da erro aa tentar cadastro duplicado
-[x]-puxar informação para os campos no editar
-[x]-deixar bonito
